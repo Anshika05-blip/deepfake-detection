@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+timm
+facenet-pytorch
+albumentations
+opencv-python
+scikit-learn
+matplotlib
+pandas
+numpy
+tqdm
+Pillow
+kaggle

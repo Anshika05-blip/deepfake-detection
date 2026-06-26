@@ -1,0 +1,22 @@
+# Dataset
+data/
+*.zip
+
+# Model weights
+outputs/
+*.pt
+*.pth
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
